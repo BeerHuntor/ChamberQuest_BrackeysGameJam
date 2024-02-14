@@ -1,0 +1,1446 @@
+fileFormatVersion: 2
+guid: ba02309fc67a6434ab14978def7c807c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guy_E_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1883
+        width: 66
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dece5f9a2ca42b46bfc25495fc23d17
+      internalID: -2100868534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_E_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1883
+        width: 71
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981c35b4a9689b47b62a8b0e58d5c7b
+      internalID: 1372220392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_E_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1883
+        width: 67
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3317c3e7a733d459d1cd44d24deba1
+      internalID: 1362065964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_E_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1883
+        width: 66
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e99e949b8f16b4aa80c08a4dfeaffc
+      internalID: 747492270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_E_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1883
+        width: 71
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5910e3d70eb8e4893466e386303135
+      internalID: -1698548069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_E_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1883
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5edf6efb13df38448a328459dd59ee3
+      internalID: 399664228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NE_0
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1883
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed9ad382aff8045838c40842841af0
+      internalID: 1458679139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NE_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1884
+        width: 74
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020cfd0b319714e4899eab64dc0ac5f5
+      internalID: -954090610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NE_2
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1883
+        width: 68
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4583d79b24664fb6bad340ed1ff64
+      internalID: 1561758733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NE_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1883
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af83d92add7354e97ad289af234568
+      internalID: -704046318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NE_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1883
+        width: 71
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a05499436b0df4eb37c8bfebfcc75a
+      internalID: -1397113007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NE_5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1883
+        width: 71
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca13f37bab7ea74fbec8ed70a6b178c
+      internalID: -409777572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_N_0
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1883
+        width: 83
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4400bcd3456874ea6ff2cc670be358
+      internalID: 1174358526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_N_1
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1883
+        width: 83
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cf94337da032549b053104f765b1dc
+      internalID: 1227624398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_N_2
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1883
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e3b4d34a362d4bb396e04756558da
+      internalID: -392228507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_N_3
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1883
+        width: 83
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c9a1974533554eb634ae162a84c83
+      internalID: 759056997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_N_4
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1883
+        width: 83
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28af07bbfda4e47ba12ca61e35d216
+      internalID: -68154899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_N_5
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1883
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22533228aa2244d95b46d3871297b4
+      internalID: -1638419913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NW_0
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1883
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e580cd64ecdc428dba8cacc02a1bd
+      internalID: 1714313768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NW_1
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1883
+        width: 74
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf217377a768647a6ac945368d97a1
+      internalID: -940196789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NW_2
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1883
+        width: 67
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5602180e89e8743b972ef35b382ba9
+      internalID: -1843324172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NW_3
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1883
+        width: 66
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25edc3bb9effd4544bb4f2309cb798df
+      internalID: -1007464962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NW_4
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1883
+        width: 71
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7e231af4f108549b943648edebdb0e
+      internalID: -301902055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_NW_5
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1883
+        width: 72
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbba32342f10c2c46b7b1f9bb6532018
+      internalID: 1426551288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_W_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1714
+        width: 66
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f557b80d9b2a789408719161f9658a76
+      internalID: 1768606821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_W_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1714
+        width: 71
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb45c6b1a916f294c9a1fc1ee6a5ffc3
+      internalID: -1011710146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_W_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1714
+        width: 67
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed2ab72c80488c4cbbcdd1d3f2fcf74
+      internalID: -2108351072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_W_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1714
+        width: 66
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16882e5004cbc040b3e69b2d66146b4
+      internalID: 583255743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_W_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1715
+        width: 71
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcdd31ccac3c0f4ebb0fd7710f1e5b2
+      internalID: 90816967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_W_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1714
+        width: 66
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967115ee62633634c9c3878adcf3820a
+      internalID: -1333543806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SW_0
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1714
+        width: 79
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a50bf6ae1595a4f9807daf852bd16d
+      internalID: -1785422013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SW_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1714
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23a20a2bf80ea439bd55d52f1d06ef
+      internalID: -2048537197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SW_2
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1714
+        width: 79
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a93d5cfdcaabeb4caed06299e7a0d42
+      internalID: 657990829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SW_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1714
+        width: 79
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66658909210c12b48815a6769368f30c
+      internalID: -635362675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SW_4
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1714
+        width: 79
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6566fd757dd88468e16e2f4f6e156f
+      internalID: -5504892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SW_5
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1714
+        width: 79
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4664886, y: 0.4917267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e560ba66f1a96b43bc357de22121dda
+      internalID: -1576924268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SE_1
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1714
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae88c9f3888d2ba479e03a21b2bf5942
+      internalID: -1221003046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SE_2
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1714
+        width: 79
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811578284dca67e409844dfc1b0af568
+      internalID: 596465357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SE_3
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1714
+        width: 79
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a483b55f98e554f9825ccca5367710
+      internalID: 1097739086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SE_4
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1714
+        width: 79
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364ef009ad7cdb1409e6dfac1ff26ca9
+      internalID: 1412718052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SE_5
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1714
+        width: 79
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fc80a436f7d974d8cea8b84c2fecbf
+      internalID: 2033029303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_S_0
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1714
+        width: 83
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc867746c8ef0439afbb64a6803b3a
+      internalID: -1253283643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_S_1
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1714
+        width: 83
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bace92c6a2e6f342954f6e0306cf157
+      internalID: -251497621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_S_2
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1714
+        width: 83
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a8fa24ecae17a4ea2d233110663d98
+      internalID: 1526205105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_S_3
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1714
+        width: 83
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae47526aabf844c499799e86647d90e3
+      internalID: 1375363499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_S_4
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1714
+        width: 83
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d56d610ecb374fb7f35e5a5dd7226
+      internalID: -1163647177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_S_5
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1713
+        width: 83
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019cc9e57288fc479cf687fea90e251
+      internalID: 1190887739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy_SE_0
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1714
+        width: 79
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e354973e2a5f81458abfed3830b532b
+      internalID: 1542894312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1440
+        width: 144
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc90ce09c5042744bd51b4393e88cc3
+      internalID: 1780345765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guy_E_0: 1372220392
+      guy_E_1: 1362065964
+      guy_E_2: 747492270
+      guy_E_3: -1698548069
+      guy_E_4: 399664228
+      guy_E_5: 1458679139
+      guy_NE_0: -954090610
+      guy_NE_1: 1561758733
+      guy_NE_2: -704046318
+      guy_NE_3: -1397113007
+      guy_NE_4: -409777572
+      guy_NE_5: 1174358526
+      guy_NW_0: -940196789
+      guy_NW_1: -1843324172
+      guy_NW_2: -1007464962
+      guy_NW_3: -301902055
+      guy_NW_4: 1426551288
+      guy_NW_5: 1768606821
+      guy_N_0: 1227624398
+      guy_N_1: -392228507
+      guy_N_2: 759056997
+      guy_N_3: -68154899
+      guy_N_4: -1638419913
+      guy_N_5: 1714313768
+      guy_SE_0: -1221003046
+      guy_SE_1: 596465357
+      guy_SE_2: 1097739086
+      guy_SE_3: 1412718052
+      guy_SE_4: 2033029303
+      guy_SE_5: -1253283643
+      guy_SW_0: -2048537197
+      guy_SW_1: 657990829
+      guy_SW_2: -635362675
+      guy_SW_3: -5504892
+      guy_SW_4: -1576924268
+      guy_SW_5: 1542894312
+      guy_S_0: -251497621
+      guy_S_1: 1526205105
+      guy_S_2: 1375363499
+      guy_S_3: -1163647177
+      guy_S_4: 1190887739
+      guy_S_5: 1190887739
+      guy_W_0: -1011710146
+      guy_W_1: -2108351072
+      guy_W_2: 583255743
+      guy_W_3: 90816967
+      guy_W_4: -1333543806
+      guy_W_5: -1785422013
+      spaghetti_atlas_0: -297050746
+      spaghetti_atlas_100: -1286498485
+      spaghetti_atlas_101: 892404845
+      spaghetti_atlas_102: -1747056528
+      spaghetti_atlas_103: 981485677
+      spaghetti_atlas_104: -899357379
+      spaghetti_atlas_105: 1248686628
+      spaghetti_atlas_106: -1370146904
+      spaghetti_atlas_107: 861024526
+      spaghetti_atlas_108: 1553521398
+      spaghetti_atlas_109: 2133794215
+      spaghetti_atlas_110: -1906838773
+      spaghetti_atlas_111: -1931041645
+      spaghetti_atlas_112: -2030829073
+      spaghetti_atlas_113: -482093491
+      spaghetti_atlas_114: 238092761
+      spaghetti_atlas_115: -1261054989
+      spaghetti_atlas_116: 1955540126
+      spaghetti_atlas_117: 1174768757
+      spaghetti_atlas_118: 202383093
+      spaghetti_atlas_119: 1358048434
+      spaghetti_atlas_120: 1714793709
+      spaghetti_atlas_121: -1796064355
+      spaghetti_atlas_122: -375612225
+      spaghetti_atlas_123: 1810751640
+      spaghetti_atlas_124: -729725600
+      spaghetti_atlas_125: -2062820623
+      spaghetti_atlas_126: 1503570988
+      spaghetti_atlas_127: 1719682108
+      spaghetti_atlas_128: 2038398730
+      spaghetti_atlas_129: 1376403191
+      spaghetti_atlas_130: -1659003809
+      spaghetti_atlas_131: -1087812580
+      spaghetti_atlas_132: 2115621247
+      spaghetti_atlas_133: -1448591567
+      spaghetti_atlas_134: 361706503
+      spaghetti_atlas_135: -530023046
+      spaghetti_atlas_136: 1051650886
+      spaghetti_atlas_137: 669012332
+      spaghetti_atlas_138: -1031493266
+      spaghetti_atlas_139: 872311686
+      spaghetti_atlas_140: -1944686008
+      spaghetti_atlas_141: 1261793511
+      spaghetti_atlas_142: -1786467210
+      spaghetti_atlas_143: -400799679
+      spaghetti_atlas_144: 821613048
+      spaghetti_atlas_145: 22964787
+      spaghetti_atlas_146: 873789917
+      spaghetti_atlas_147: -428167801
+      spaghetti_atlas_148: -175067871
+      spaghetti_atlas_149: 47019024
+      spaghetti_atlas_150: 38109188
+      spaghetti_atlas_151: 816909491
+      spaghetti_atlas_152: 2106043946
+      spaghetti_atlas_153: -713805924
+      spaghetti_atlas_154: 1141296699
+      spaghetti_atlas_155: -435571858
+      spaghetti_atlas_156: 1366348458
+      spaghetti_atlas_157: -1722526788
+      spaghetti_atlas_158: -724352033
+      spaghetti_atlas_159: -46317744
+      spaghetti_atlas_160: 2111196706
+      spaghetti_atlas_161: 1838378369
+      spaghetti_atlas_162: -770549244
+      spaghetti_atlas_163: 1408603989
+      spaghetti_atlas_164: -880566864
+      spaghetti_atlas_165: -1252037815
+      spaghetti_atlas_166: -1607861568
+      spaghetti_atlas_167: -1920549348
+      spaghetti_atlas_168: 31629481
+      spaghetti_atlas_169: -446566025
+      spaghetti_atlas_170: 1912700272
+      spaghetti_atlas_171: -1532428280
+      spaghetti_atlas_172: -1478878791
+      spaghetti_atlas_173: 1853083519
+      spaghetti_atlas_174: 1636036930
+      spaghetti_atlas_175: 804250042
+      spaghetti_atlas_176: 221237954
+      spaghetti_atlas_177: 1476094554
+      spaghetti_atlas_178: -298537679
+      spaghetti_atlas_179: -1003009382
+      spaghetti_atlas_180: -939270409
+      spaghetti_atlas_181: -2040084806
+      spaghetti_atlas_182: -766976489
+      spaghetti_atlas_183: -1763882470
+      spaghetti_atlas_184: 746375068
+      spaghetti_atlas_185: -1896603087
+      spaghetti_atlas_186: 2091864701
+      spaghetti_atlas_187: 922436554
+      spaghetti_atlas_188: -312131312
+      spaghetti_atlas_189: -1091759247
+      spaghetti_atlas_190: 1277379820
+      spaghetti_atlas_191: -249447626
+      spaghetti_atlas_192: -1105253047
+      spaghetti_atlas_193: 1803902091
+      spaghetti_atlas_194: -802013725
+      spaghetti_atlas_195: -351346529
+      spaghetti_atlas_196: 1718948639
+      spaghetti_atlas_197: 274731420
+      spaghetti_atlas_198: -593500349
+      spaghetti_atlas_199: -80304426
+      spaghetti_atlas_200: 201027507
+      spaghetti_atlas_201: 1453424137
+      spaghetti_atlas_202: 439279183
+      spaghetti_atlas_203: -663971737
+      spaghetti_atlas_204: 474333894
+      spaghetti_atlas_205: -1632717688
+      spaghetti_atlas_206: -1072269804
+      spaghetti_atlas_207: 461218373
+      spaghetti_atlas_208: -1945628653
+      spaghetti_atlas_209: -1897657793
+      spaghetti_atlas_210: -1551947641
+      spaghetti_atlas_211: -385215277
+      spaghetti_atlas_212: -1029121638
+      spaghetti_atlas_213: -115347288
+      spaghetti_atlas_214: 1001569555
+      spaghetti_atlas_215: -652540653
+      spaghetti_atlas_216: -961353319
+      spaghetti_atlas_217: -1859948636
+      spaghetti_atlas_218: 1330764376
+      spaghetti_atlas_219: 1722521410
+      spaghetti_atlas_220: -2098476046
+      spaghetti_atlas_221: -370053014
+      spaghetti_atlas_222: 69879446
+      spaghetti_atlas_223: -736728945
+      spaghetti_atlas_224: 508363367
+      spaghetti_atlas_225: 366093730
+      spaghetti_atlas_226: 2060707138
+      spaghetti_atlas_227: 1995587544
+      spaghetti_atlas_228: -862527575
+      spaghetti_atlas_229: -808477108
+      spaghetti_atlas_230: 1810243102
+      spaghetti_atlas_231: -294753289
+      spaghetti_atlas_232: 1948886701
+      spaghetti_atlas_233: 636375369
+      spaghetti_atlas_234: -204991723
+      spaghetti_atlas_235: 1763515750
+      spaghetti_atlas_236: 1811789104
+      spaghetti_atlas_237: 555783923
+      spaghetti_atlas_238: 1483828199
+      spaghetti_atlas_239: -994039605
+      spaghetti_atlas_240: 864177330
+      spaghetti_atlas_241: 23654208
+      spaghetti_atlas_242: 787082542
+      spaghetti_atlas_243: 678962283
+      spaghetti_atlas_244: -77770710
+      spaghetti_atlas_245: -1776948974
+      spaghetti_atlas_246: -1993544412
+      spaghetti_atlas_247: -1384471562
+      spaghetti_atlas_248: -1477614263
+      spaghetti_atlas_249: -181076519
+      spaghetti_atlas_250: -2052367100
+      spaghetti_atlas_251: -669114843
+      spaghetti_atlas_252: 338820042
+      spaghetti_atlas_253: 1879998638
+      spaghetti_atlas_254: -1679998674
+      spaghetti_atlas_255: 1659907984
+      spaghetti_atlas_256: -1806033289
+      spaghetti_atlas_257: 996387089
+      spaghetti_atlas_258: 2045670268
+      spaghetti_atlas_259: 301824013
+      spaghetti_atlas_260: -1796129801
+      spaghetti_atlas_261: 1119846378
+      spaghetti_atlas_262: -305339069
+      spaghetti_atlas_263: 893103960
+      spaghetti_atlas_264: 813117939
+      spaghetti_atlas_265: 942823107
+      spaghetti_atlas_266: 1485799304
+      spaghetti_atlas_267: 92263471
+      spaghetti_atlas_268: 827615957
+      spaghetti_atlas_269: -1469309001
+      spaghetti_atlas_270: 316039503
+      spaghetti_atlas_271: -1749156767
+      spaghetti_atlas_272: 1315466113
+      spaghetti_atlas_273: -2118638374
+      spaghetti_atlas_274: 746133390
+      spaghetti_atlas_47: -940766786
+      spaghetti_atlas_48: 1025068090
+      spaghetti_atlas_49: -1358619354
+      spaghetti_atlas_50: -1991511253
+      spaghetti_atlas_51: -1186463015
+      spaghetti_atlas_52: -1720924522
+      spaghetti_atlas_53: 151589228
+      spaghetti_atlas_54: -734037033
+      spaghetti_atlas_55: -1472940026
+      spaghetti_atlas_56: -684608281
+      spaghetti_atlas_57: -1804703555
+      spaghetti_atlas_58: 1759221217
+      spaghetti_atlas_59: 1032891095
+      spaghetti_atlas_60: 1175500634
+      spaghetti_atlas_61: -657294209
+      spaghetti_atlas_62: -2063530331
+      spaghetti_atlas_63: 1128931827
+      spaghetti_atlas_64: 1546149196
+      spaghetti_atlas_65: -2107841249
+      spaghetti_atlas_66: 1802659953
+      spaghetti_atlas_67: 1108135050
+      spaghetti_atlas_68: 817393520
+      spaghetti_atlas_69: -1978080557
+      spaghetti_atlas_70: 1686627912
+      spaghetti_atlas_71: -1323594895
+      spaghetti_atlas_72: 389373160
+      spaghetti_atlas_73: 1037003065
+      spaghetti_atlas_74: -1663321373
+      spaghetti_atlas_75: -1155487187
+      spaghetti_atlas_76: 959239129
+      spaghetti_atlas_77: -1972868844
+      spaghetti_atlas_78: 1675432020
+      spaghetti_atlas_79: -311793110
+      spaghetti_atlas_80: 774846612
+      spaghetti_atlas_81: -1416961306
+      spaghetti_atlas_82: 1219352355
+      spaghetti_atlas_83: 869955245
+      spaghetti_atlas_84: 852446473
+      spaghetti_atlas_85: -1753133462
+      spaghetti_atlas_86: 2073249994
+      spaghetti_atlas_87: 872825616
+      spaghetti_atlas_88: -272103930
+      spaghetti_atlas_89: 2133992824
+      spaghetti_atlas_90: 772955712
+      spaghetti_atlas_91: -1768458202
+      spaghetti_atlas_92: 951969223
+      spaghetti_atlas_93: -1706198776
+      spaghetti_atlas_94: -1222304524
+      spaghetti_atlas_95: 1480948354
+      spaghetti_atlas_96: 1583631573
+      spaghetti_atlas_97: -1207044183
+      spaghetti_atlas_98: 1540649655
+      spaghetti_atlas_99: -2100868534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
