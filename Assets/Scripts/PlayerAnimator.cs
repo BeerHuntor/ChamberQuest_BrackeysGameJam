@@ -12,7 +12,6 @@ public class PlayerAnimator : MonoBehaviour
     private const string IS_WALKING = "IS_WALKING";
     private const string X_MOVEMENT_VALUE = "X_MOVEMENT_VALUE";
     private const string Y_MOVEMENT_VALUE = "Y_MOVEMENT_VALUE";
-    //private string currentMovementDirection; 
 
     private Animator playerAnimator;
 
