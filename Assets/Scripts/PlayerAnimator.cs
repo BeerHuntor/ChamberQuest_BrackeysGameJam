@@ -10,7 +10,9 @@ public class PlayerAnimator : MonoBehaviour
     [SerializeField] private GameInput gameInput;
 
     private const string IS_WALKING = "IS_WALKING";
-    private string currentMovementDirection; 
+    private const string X_MOVEMENT_VALUE = "X_MOVEMENT_VALUE";
+    private const string Y_MOVEMENT_VALUE = "Y_MOVEMENT_VALUE";
+    //private string currentMovementDirection; 
 
     private Animator playerAnimator;
 
@@ -20,42 +22,13 @@ public class PlayerAnimator : MonoBehaviour
                 
     private void Update() {
         playerAnimator.SetBool(IS_WALKING, player.IsWalking());
-        playerAnimator.SetTrigger(MovementDirectionAnimationSelector());
-        Debug.Log(gameInput.GetMovementVectorAsAngle());
+        SelectWalkAnimation(gameInput.GetMovementVectorNormalized());
     }
 
-    private string MovementDirectionAnimationSelector() {
-        float currentMovementAngle = gameInput.GetMovementVectorAsAngle();
+    private void SelectWalkAnimation(Vector3 direction) {
 
-        string currentMovementDirection = " ";
+        playerAnimator.SetFloat(X_MOVEMENT_VALUE, direction.x);
+        playerAnimator.SetFloat(Y_MOVEMENT_VALUE , direction.y);    
 
-        if (currentMovementAngle == 0f) {
-            //Moving North
-            currentMovementDirection = "MOVING_NORTH";
-        } else if (currentMovementAngle == 90f) {
-            //Moving East
-            currentMovementDirection = "MOVING_EAST";
-        } else if (currentMovementAngle == 180f) {
-            //Moving South
-            currentMovementDirection = "MOVING_SOUTH";
-        } else if (currentMovementAngle == 270f) {
-            //Moving West
-            currentMovementDirection = "MOVING_WEST";
-        } else if (currentMovementAngle == 45f) {
-            //Moving Nort East
-            currentMovementDirection = "MOVING_NORTH_EAST";
-        } else if (currentMovementAngle == 135f) {
-            //Moving South East
-            currentMovementDirection = "MOVING_SOUTH_EAST";
-        } else if (currentMovementAngle == 225f) {
-            //Moving South West
-            currentMovementDirection = "MOVING_SOUTH_WEST";
-        } else {
-            //Moving North West
-            currentMovementDirection = "MOVING_NORTH_WEST";
-        }
-
-            return currentMovementDirection;
-        
     }
 }
