@@ -4,15 +4,26 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    
+
+    [SerializeField] private float playerMoveSpeed;
+
+    [SerializeField] private GameInput gameInput; 
+
+    private bool isWalking; 
+
+    private void Update() {
+
+        Vector2 inputVector = gameInput.GetMovementVectorNormalized();
+        Vector3 moveDir = new Vector3(inputVector.x, inputVector.y, 0);
+
+        isWalking = moveDir != Vector3.zero;
+        transform.position += moveDir * playerMoveSpeed * Time.deltaTime;
+
+    
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    public bool IsWalking() {
+        return isWalking;
     }
 }
